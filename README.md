@@ -31,3 +31,16 @@ AI-Study-Companion/
 ├── prompts.py         # AI 角色设定与消息构造
 ├── requirements.txt   # 项目依赖
 └── .gitignore         # Git 忽略规则
+## 应用截图
+
+### AI 学习问答
+
+![AI 聊天界面](screenshots/chat.png)
+
+### 学习记录与历史统计
+
+![学习记录界面](screenshots/records.png)
+
+### 近 7 天学习总结与个性化建议
+
+![学习总结界面](screenshots/weekly.png)
